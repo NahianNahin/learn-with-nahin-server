@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "category_name": "Mern Stack Web Development"
+    },
+    {
+        "id": "02",
+        "category_name": "CSS Framework"
+    },
+    {
+        "id": "03",
+        "category_name": "Programing Languages"
+    },
+    {
+        "id": "04",
+        "category_name": "Fontend Web Development"
+    },
+    {
+        "id": "05",
+        "category_name": "Backend Web Development"
+    },
+    {
+        "id": "06",
+        "category_name": "Popular CMS Development"
+    },
+    {
+        "id": "07",
+        "category_name": "Cyber Security"
+    },
+    {
+        "id": "08",
+        "category_name": "Breaking News"
+    }
+]

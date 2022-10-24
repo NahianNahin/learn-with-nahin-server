@@ -6,9 +6,9 @@ const cors = require('cors');
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Learn with Nahian server is running')
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`Learn with Nahian server is running on port ${port}`)
 })
