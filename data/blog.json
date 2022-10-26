@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "question": "What is cors in node js?",
+        "answer": "CORS stands for Cross-Origin Resource Sharing . It allows us to relax the security applied to an API.This is done by bypassing the Access-Control-Allow-Origin headers, which specify which origins can access the API.Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.CORS allows you to configure the web APIs security.It has to do with allowing other domains to make requests against your web API. For example, if you had your web API on one server and your web app on another you could configure CORS in your Web API to allow your web app to make calls to your web API."
+        
+    },
+    {
+        "id": 2,
+        "question": "Why are you using firebase? What other option do you have to implement authentication?",
+        "answer": "Thanks to Firebase's easy-to-use SDK, ready-made UI libraries, and backend services, it is possible to set up the whole authentication process in just a couple of minutes. Firebase allows users to authenticate with their phone number, email, Google, and Facebook accounts (more options can be found here).Firebase is a Backend-as-a-Service (BaaS) app development platform that provides hosted backend services such as a realtime database, cloud storage, authentication, crash reporting, machine learning, remote configuration, and hosting for your static files."
+    },
+    {
+        "id": 3,
+        "question": "How does the private router work?",
+        "answer": "The private route component is similar to the public route, the only change is that redirect URL and authenticate condition. If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated (Logged in).The private route component is used to protect selected pages in a React app from unauthenticated users.To protect routes, the private components must also have access to the isLoggedIn value. You can do this by creating a new component that accepts the isLoggedIn state as a prop and the private component as a child. For instance, if your new component is named 'Protected', you would render a private component like this."
+    },
+    {
+        "id": 4,
+        "question": "What is Node? How does Node work?",
+        "answer": "The official name is actually Node . Originally it was designed for use as a web application, but the author realized it could be used for more general purposes and renamed it to node. It is a used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node. js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive.Node is completely event-driven. Basically the server consists of one thread processing one event after another. A new request coming in is one kind of event. The server starts processing it and when there is a blocking IO operation, it does not wait until it completes and instead registers a callback function."
+    }
+]
