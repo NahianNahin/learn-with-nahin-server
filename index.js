@@ -4,6 +4,7 @@ const port = process.env.PORT || 5000;
 const categories = require('./data/categories.json');
 const courses = require('./data/Courses.json');
 const blogs = require('./data/blog.json');
+const mentor = require('./data/CourseMentor.json');
 const cors = require('cors');
 
 app.use(cors());
@@ -19,6 +20,9 @@ app.get('/courses', (req, res) => {
 });
 app.get('/blogs', (req, res) => {
   res.send(blogs);
+});
+app.get('/mentor', (req, res) => {
+  res.send(mentor);
 });
 app.get('/category/:id', (req, res) => {
   const id = req.params.id;
