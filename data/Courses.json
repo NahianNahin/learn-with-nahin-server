@@ -14,8 +14,33 @@
             "img": "https://scontent.fjsr3-1.fna.fbcdn.net/v/t39.30808-6/270236743_4517913058337356_1596445010986674021_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ad2b24&_nc_eui2=AeEB9TXFd-oeqVi_XchW0F1QeS_2ZBmy6aJ5L_ZkGbLporhUguo-IfURd48OGJTF9cVuLUvUsqy4Bl3-4TRjmCe8&_nc_ohc=gHpeCcp504kAX9tm8cV&_nc_ht=scontent.fjsr3-1.fna&oh=00_AT_6ALhnD3cng1R3pCcZxYwc2NNx2D2Yb5XMRVxXepNvHw&oe=635D222A"
         },
         "image_url": "https://codefactory.wien/wp-content/uploads/2022/04/Site_HTMLCSS.png",
-        "details": "In this premium course, we provide Basic HTML & CSS course. We cover almost all HTML code and CSS properties. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 2500
+        "details": "In this premium course, we provide Basic HTML & CSS course. We cover almost all HTML code and CSS properties. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 120+ live classes, 30 big projects and almost 250+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
+        "price": 2500,
+        "courses_content": [
+            "Get started",
+            "Install NodePad & VS Code",
+            "Concept about Web Page",
+            "HTML Tags",
+            "HTML Animations",
+            "HTML 5 Details",
+            "CSS Concepts",
+            "About All Styles",
+            "Live Project Part 1",
+            "Live Project Part 2",
+            "Live Project Part 3",
+            "Live Project Part 4",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "120+ Live Classes",
+            "30 Big Projects",
+            "250+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "High"
     },
     {
         "_id": "nahin1002",
@@ -33,7 +58,29 @@
         },
         "image_url": "https://1.bp.blogspot.com/-5rir0lNZyvM/X8jPLXobHAI/AAAAAAAAkyE/Y5EW252P7XsHORyw0EJpQEwR8wOBPtoSACLcBGAsYHQ/w400-h225/best%2BC%2Bprogramming%2Bcourses%2Bfor%2Bbeginners.webp",
         "details": "In this premium course, we provide Basic Programming course. We cover almost all C & C++  codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 100+ live classes, 20 big projects and almost 200+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 6000
+        "price": 6000,
+        "courses_content": [
+            "Introduction",
+            "C & C++ Concepts",
+            "Arrays",
+            "Variables",
+            "Loops",
+            "Functions",
+            "OOP in C++",
+            "Problem Solving",
+            "Live Projects",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "Medium"
     },
     {
         "_id": "nahin1003",
@@ -51,7 +98,29 @@
         },
         "image_url": "https://www.tristatetechnology.com/tristate-website/blog/wp-content/uploads/2022/02/why-is-python-the-best-for-artificial-intelligence-and-machine-learning.jpg",
         "details": "In this premium course, we provide Basic Programming course. We cover almost all Python  codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 100+ live classes, 20 big projects and almost 200+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 5000
+        "price": 5000,
+        "courses_content": [
+            "Introduction",
+            "Python Concepts",
+            "Arrays",
+            "Variables",
+            "Loops",
+            "Functions",
+            "OOP in Python",
+            "Problem Solving",
+            "Live Projects",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "Medium"
     },
     {
         "_id": "nahin1004",
@@ -69,7 +138,29 @@
         },
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_jQuery.svg/1200px-Logo_jQuery.svg.png",
         "details": "In this premium course, we provide JS Framework course. We cover almost all JQuery properties. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 2500
+        "price": 2500,
+        "courses_content": [
+            "Introduction",
+            "Basic of JQuery",
+            "Jquery Selector",
+            "JQuery Events",
+            "Jquery Effect & animations",
+            "DOM Manipulation",
+            "AJAX",
+            "JQuery Plugins",
+            "Live Projects",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "Medium"
     },
     {
         "_id": "nahin1005",
@@ -87,7 +178,32 @@
         },
         "image_url": "https://widgetcore.com/wp-content/uploads/2021/12/Tailwind-vs-bootstrap.jpg",
         "details": "In this premium course, we provide CSS Framework course. We cover almost all Bootstrap & Tailwind CSS properties. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 4000
+        "price": 4000,
+        "courses_content": [
+            "Introduction",
+            "Bootstrap Classes",
+            "Utilities",
+            "Components",
+            "Tailwind Classes",
+            "Tailwind Utilities",
+            "Daisy Ui Components",
+            "Live Project Part-1",
+            "Live Project Part-2",
+            "Live Project Part-3",
+            "Live Project Part-4",
+            "Bonus"
+
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "Medium"
     },
     {
         "_id": "nahin1006",
@@ -105,7 +221,33 @@
         },
         "image_url": "https://miro.medium.com/max/750/1*41E7KLIvzPvisZY_s4XR0A.png",
         "details": "In this premium course, we provide JS Framework course. We cover almost all React codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 7000
+        "price": 7000,
+        "courses_content": [
+            "Getting Started",
+            "JavaScript Refresher",
+            "React Basic",
+            "Working With Component part-1",
+            "Working With Component part-2",
+            "Working With Component part-3",
+            "React Route part-1",
+            "React Route part-2",
+            "React Route part-3",
+            "React Route part-4",
+            "React Auth",
+            "React with Firebase",
+            "React live Project",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "High"
     },
     {
         "_id": "nahin1007",
@@ -123,7 +265,30 @@
         },
         "image_url": "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png",
         "details": "In this premium course, we provide Backend Node JS course. We cover almost all Node JS codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 3000
+        "price": 3000,
+        "courses_content": [
+            "Introduction",
+            "Installation",
+            "Node Tutirial",
+            "Express in short",
+            "Project Intro & Setup",
+            "Store API",
+            "Job API",
+            "Image/file Upload",
+            "E-Commerce API",
+            "Send Email",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "High"
     },
     {
         "_id": "nahin1008",
@@ -141,7 +306,30 @@
         },
         "image_url": "https://programadev.com.br/static/9ff3232ef2ea482c1931b79f40243cf0/capa-node-express-rest.png",
         "details": "In this premium course, we provide Backend Express JS course. We cover almost all Express JS codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 3000
+        "price": 3000,
+        "courses_content": [
+            "Introduction",
+            "Install",
+            "Node Tutirial",
+            "Express Tutorial",
+            "Project Intro & Setup",
+            "JWT Basics",
+            "Job API",
+            "Image/file Upload",
+            "E-Commerce API",
+            "Task Manager API",
+            "Auth Workflow"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "High"
     },
     {
         "_id": "nahin1009",
@@ -159,7 +347,30 @@
         },
         "image_url": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
         "details": "In this premium course, we provide Backend Database course. We cover almost all Mongo DB codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 3000
+        "price": 3000,
+        "courses_content": [
+            "Course Introduction",
+            "Environment Setup",
+            "MongoDB Usage Overview",
+            "CRUD Operations CLI",
+            "MongoDB in Python",
+            "Aggregation",
+            "Improving DB Performance",
+            "Security Configurations",
+            "Advanced Topics",
+            "Course Outro",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "Medium"
     },
     {
         "_id": "nahin1010",
@@ -176,8 +387,32 @@
             "img": "https://scontent.fjsr3-1.fna.fbcdn.net/v/t1.6435-9/127228549_713407725969064_9213826946540064206_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG0Whc72wDJAPhp0RkkAKmUu8etv68f9Ci7x62_rx_0KM-qdQVYxSRFbNzrbaXRDSV3GSqvLzgXhcbUzoVcqlJZ&_nc_ohc=nqfIXQCeiIsAX8vx7hI&tn=ANoujC2lwi4b_Hjr&_nc_ht=scontent.fjsr3-1.fna&oh=00_AT_pOpVZNKmhTYy6iY0FZOCXkH-a_VvgGENva-Ep3UcSLw&oe=637E3980"
         },
         "image_url": "https://webgenix.com.au/wp-content/uploads/2021/10/Wordpress-plugins.jpg",
-        "details": "In this premium course, we provide Popular CMS course. We cover almost all Wordpress themes and plugins. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 4000
+        "details": "In this premium course, we provide Popular CMS course. We cover almost all Wordpress themes and plugins. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 15 big projects and almost 150+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
+        "price": 4000,
+        "courses_content": [
+            "Introduction to the course",
+            "Local Install Wordpress on your device",
+            "Installing Wordpress on a web host",
+            "A first look around Wordpress",
+            "Wordpress Setting",
+            "Theme,Plugins & Widgets",
+            "About Post & Page",
+            "The Homepage",
+            "Website Navigation",
+            "Wordpress Security",
+            "Some Important Plugins",
+            "FeedBack"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "15 Big Projects",
+            "150+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "High"
     },
     {
         "_id": "nahin1011",
@@ -194,8 +429,29 @@
             "img": "https://scontent.fjsr3-1.fna.fbcdn.net/v/t1.6435-9/127228549_713407725969064_9213826946540064206_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeG0Whc72wDJAPhp0RkkAKmUu8etv68f9Ci7x62_rx_0KM-qdQVYxSRFbNzrbaXRDSV3GSqvLzgXhcbUzoVcqlJZ&_nc_ohc=nqfIXQCeiIsAX8vx7hI&tn=ANoujC2lwi4b_Hjr&_nc_ht=scontent.fjsr3-1.fna&oh=00_AT_pOpVZNKmhTYy6iY0FZOCXkH-a_VvgGENva-Ep3UcSLw&oe=637E3980"
         },
         "image_url": "https://www.movingtrafficmedia.com/wp-content/uploads/2021/01/Shopify-Featured-Image.jpg",
-        "details": "In this premium course, we provide Popular CMS course. We cover almost all Shopify & Woocomerce themes and plugins. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 3000
+        "details": "In this premium course, we provide Popular CMS course. We cover almost all Shopify & Woocomerce themes and plugins. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 15 big projects and almost 150+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
+        "price": 3000,
+        "courses_content": [
+            "Introduction to the course",
+            "Create account on your device",
+            "A first look around Shopify",
+            "Shopify Setting",
+            "Ecommerce- Building Your Store",
+            "Ecommerce- Time To Checkout",
+            "Apps",
+            "Where To Now - The Sky's The Limit?",
+            "Bonus Section"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "Medium"
     },
     {
         "_id": "nahin1012",
@@ -213,7 +469,26 @@
         },
         "image_url": "https://i.pcmag.com/imagery/reviews/00Z1mnZCcGR9r9D5hNbsFbW-36..v1612863800.jpg",
         "details": "In this premium course, we provide Popular CMS course. We cover almost all Wix & Squarespace themes and plugins. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 3000
+        "price": 3000,
+        "courses_content": [
+            "Introduction",
+            "Website Planning",
+            "Getting Start with wix",
+            "Building Your wix website",
+            "Online Marketing/ SEO",
+            "Design Like a PRO TIPS!",
+            "Bonus & Support"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "60+ Live Classes",
+            "12 Big Projects",
+            "100+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "Medium"
     },
     {
         "_id": "nahin1013",
@@ -230,8 +505,34 @@
             "img": "https://scontent.fjsr3-1.fna.fbcdn.net/v/t39.30808-6/270236743_4517913058337356_1596445010986674021_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ad2b24&_nc_eui2=AeEB9TXFd-oeqVi_XchW0F1QeS_2ZBmy6aJ5L_ZkGbLporhUguo-IfURd48OGJTF9cVuLUvUsqy4Bl3-4TRjmCe8&_nc_ohc=gHpeCcp504kAX9tm8cV&_nc_ht=scontent.fjsr3-1.fna&oh=00_AT_6ALhnD3cng1R3pCcZxYwc2NNx2D2Yb5XMRVxXepNvHw&oe=635D222A"
         },
         "image_url": "https://www.vinsys.com/blog/wp-content/uploads/2022/02/Best-Ethical-Hacking-Certification-Courses-in-2022.jpg",
-        "details": "In this premium course, we provide Basic Cyber Security course. We cover almost all Ethical Hacking contents. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 7500
+        "details": "In this premium course, we provide Basic Cyber Security course. We cover almost all Ethical Hacking contents. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 80+ live classes, 20 big projects and almost 200+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
+        "price": 7500,
+        "courses_content": [
+            "Introduction",
+            "Setting up a Hacking Lab",
+            "Linux Basic",
+            "Network Hacking part-1",
+            "Network Hacking part-2",
+            "Network Hacking part-3",
+            "Network Hacking part-4",
+            "Gaining Access part-1",
+            "Gaining Access part-2",
+            "Post Exploitation",
+            "Website Hacking part-1",
+            "Website Hacking part-2",
+            "Website Hacking part-3",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "80+ Live Classes",
+            "20 Big Projects",
+            "200+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "High"
     },
     {
         "_id": "nahin1014",
@@ -248,7 +549,36 @@
             "img": "https://scontent.fjsr3-1.fna.fbcdn.net/v/t39.30808-6/272324136_110652654852073_1605994177426246615_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGXWcPpkaLI1Wh4UAkBTZqjy7QZ7-GI9h3LtBnv4Yj2HQ5AdQRq6qC_Jp9tMHhqXpG-v7X1hz7T_WXWrfwG0knu&_nc_ohc=Ko5-yoFUyhcAX9IdV6U&_nc_ht=scontent.fjsr3-1.fna&oh=00_AT94zrd-loBbQZvPJBO7e158AdEtfu1FvrUieNn4aQ3yHw&oe=635B747A"
         },
         "image_url": "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png",
-        "details": "In this premium course, we provide Backend Node JS course. We cover almost all Node JS codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 60+ live classes, 12 big projects and almost 100+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
-        "price": 5000
+        "details": "In this premium course, we provide Backend Node JS course. We cover almost all Node JS codes. We Have start our courses from the very beginning. so it is beginner friendly Courses. In our course there are 100+ live classes, 22 big projects and almost 180+ quizes. The requirement for student are : Must have Smooth Internet connection, One Laptop or Computer & Basic Knowlendge about Computer operatop. So welcome to our premium course.",
+        "price": 5000,
+        "courses_content": [
+            "Introduction",
+            "Installation",
+            "Node Tutirial",
+            "Express in short",
+            "Project Intro & Setup",
+            "Store API part-1",
+            "Store API part-2",
+            "Job API",
+            "Image/file Upload",
+            "E-Commerce API part-1",
+            "E-Commerce API part-2",
+            "E-Commerce API part-3",
+            "Send Email",
+            "Stripe Payment",
+            "Task Manager API",
+            "Bonus"
+        ],
+        "services":[
+            "24/7 hr Support",
+            "100+ Live Classes",
+            "22 Big Projects",
+            "180+ Quizes",
+            "Conceptsual sesseion",
+            "Job Placement",
+            "Certificate with Reccomendation Letter"
+        ],
+        "Popularity": "High"
+
     }
 ]
