@@ -3,7 +3,6 @@
         "id": 1,
         "question": "What is cors in node js?",
         "answer": "CORS stands for Cross-Origin Resource Sharing . It allows us to relax the security applied to an API.This is done by bypassing the Access-Control-Allow-Origin headers, which specify which origins can access the API.Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.CORS allows you to configure the web APIs security.It has to do with allowing other domains to make requests against your web API. For example, if you had your web API on one server and your web app on another you could configure CORS in your Web API to allow your web app to make calls to your web API."
-        
     },
     {
         "id": 2,

@@ -31,7 +31,7 @@
             "Live Project Part 4",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "120+ Live Classes",
             "30 Big Projects",
@@ -71,7 +71,7 @@
             "Live Projects",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -111,7 +111,7 @@
             "Live Projects",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -151,7 +151,7 @@
             "Live Projects",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -192,9 +192,8 @@
             "Live Project Part-3",
             "Live Project Part-4",
             "Bonus"
-
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -238,7 +237,7 @@
             "React live Project",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -279,7 +278,7 @@
             "Send Email",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -320,7 +319,7 @@
             "Task Manager API",
             "Auth Workflow"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -361,7 +360,7 @@
             "Course Outro",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -403,7 +402,7 @@
             "Some Important Plugins",
             "FeedBack"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "15 Big Projects",
@@ -442,7 +441,7 @@
             "Where To Now - The Sky's The Limit?",
             "Bonus Section"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -479,7 +478,7 @@
             "Design Like a PRO TIPS!",
             "Bonus & Support"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "60+ Live Classes",
             "12 Big Projects",
@@ -523,7 +522,7 @@
             "Website Hacking part-3",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "80+ Live Classes",
             "20 Big Projects",
@@ -569,7 +568,7 @@
             "Task Manager API",
             "Bonus"
         ],
-        "services":[
+        "services": [
             "24/7 hr Support",
             "100+ Live Classes",
             "22 Big Projects",
@@ -579,6 +578,5 @@
             "Certificate with Reccomendation Letter"
         ],
         "Popularity": "High"
-
     }
 ]

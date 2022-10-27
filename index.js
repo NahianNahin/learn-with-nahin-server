@@ -5,6 +5,7 @@ const categories = require('./data/categories.json');
 const courses = require('./data/Courses.json');
 const blogs = require('./data/blog.json');
 const mentor = require('./data/CourseMentor.json');
+const faq = require('./data/faq.json');
 const cors = require('cors');
 
 app.use(cors());
@@ -23,6 +24,9 @@ app.get('/blogs', (req, res) => {
 });
 app.get('/mentor', (req, res) => {
   res.send(mentor);
+});
+app.get('/faq', (req, res) => {
+  res.send(faq);
 });
 app.get('/category/:id', (req, res) => {
   const id = req.params.id;
